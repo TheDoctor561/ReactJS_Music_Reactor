@@ -1,2 +1,3 @@
-# ReactJS_Music_Reactor
-React based music video creator that allows music video creators to easily upload their music and create a visual reactionary video based on the soundwaves
+# p5.js-templates
+
+p5.js templates for ID311 Software Prototyping.
